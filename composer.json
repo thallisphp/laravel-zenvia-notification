@@ -1,5 +1,5 @@
 {
-    "name": "thallis/laravel-zenvia-notification",
+    "name": "thallisphp/laravel-zenvia-notification",
     "description": "Driver de notificações do Laravel pela Zenvia",
     "type": "library",
     "license": "MIT",
