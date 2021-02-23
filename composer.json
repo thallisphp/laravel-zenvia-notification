@@ -14,5 +14,7 @@
             "ThallisPHP\\LaravelZenviaNotification\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "illuminate/support": "8.*"
+    }
 }
